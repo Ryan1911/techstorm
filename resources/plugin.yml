@@ -1,0 +1,6 @@
+name: TechStorm
+main:me.nathan.techstorm.Techstorm
+version: 0.1
+description: >
+Test plugin
+commands:
